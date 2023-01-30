@@ -1,4 +1,4 @@
-# Comparação de métodos de compressão de imagens baseados na DCT
+# Comparação de métodos de compressão de imagens baseados na Transformada Discreta de Cosseno (DCT)
 
 ![Figura ilustrando o dataset do projeto.](/src/dataset/img_dataset.png "Dataset do projeto.")
 
